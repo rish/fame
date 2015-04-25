@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rish/fame",
   "devDependencies": {
+    "browser-sync": "^2.6.5",
     "gulp": "^3.8.11"
   }
 }
