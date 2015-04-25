@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rish/fame/issues"
   },
-  "homepage": "https://github.com/rish/fame"
+  "homepage": "https://github.com/rish/fame",
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  }
 }
