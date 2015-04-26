@@ -14,6 +14,7 @@
     "tests"
   ],
   "dependencies": {
-    "famous": "~0.3.5"
+    "famous": "~0.3.5",
+    "famous-polyfills": "~0.3.0"
   }
 }
