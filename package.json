@@ -19,5 +19,8 @@
   "devDependencies": {
     "browser-sync": "^2.6.5",
     "gulp": "^3.8.11"
+  },
+  "dependencies": {
+    "famous": "^0.6.2"
   }
 }
